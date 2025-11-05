@@ -34,3 +34,7 @@ app.py - основной файл программы
 config.py - файл настроек
 readme.txt - данный файл
 rusmarc.py - содержит список кодов для функций персон (редакторы и пр.)
+
+--={См. также}=--
+Сделать из оглавления книги поле 330 для вставки в запись:
+https://colab.research.google.com/drive/1kpXbU44Y4BD-MHAQGYz6JChytDA8oJ2i
